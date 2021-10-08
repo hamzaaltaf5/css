@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(163, 160, 160);
+}
+
+.set {
+    color: rgb(160, 146, 160);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(90, 4, 90);
+}
+
+
+
+a {
+    color: rgb(219, 198, 6);
+    text-decoration: none;
+    background-color: white;
+    opacity: 0.9;
+    border: 2x rgb(73, 124, 73);
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+h2 {
+    color: wheat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+pre {
+    color: white;
+    font-family: cursive;
+}
+
+.redd {
+    color: orange;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
